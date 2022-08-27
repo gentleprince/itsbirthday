@@ -28,5 +28,5 @@ This is a universal birthday website I created with JS,CSS and HTML. This websit
 
 ## Author
 
-- Website - [Ademolu David](https://itsbirthday.netlify.app/)
-- Whatsapp - [~**~](https://wa.me/2348167835435)
+- Website - [Itsbirthday](https://itsbirthday.netlify.app/)
+- Whatsapp - [David](https://wa.me/2348167835435)
